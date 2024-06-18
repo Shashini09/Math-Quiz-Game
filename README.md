@@ -1,0 +1,1 @@
+Creating a math quiz game application using Android Studio in my 2nd year. The project includes developing layouts, activities, ViewModel, intents, and shared preferences. The application is coded in Kotlin and provides an interactive and educational experience for users.
